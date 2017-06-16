@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaveName</string>
+    <string name="textview_title">What is your name ?</string>
+    <string name="button_save">Save</string>
+</resources>
